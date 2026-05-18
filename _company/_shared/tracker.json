@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": "20260518195311-mlqa",
+      "title": "사용자 친화적으로 작성된 발표 자료 준비",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-18T19:53:11.823Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T19-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T19-52/_report.md\n- Researcher: 경쟁사 전략 분석 결과를 사용자 친화적으로 설명하고 발표할 수 있는 형식으로 정리한다.\n- 현빈: 코다리가 경쟁사 전략 클래스의 실제 거래 데이터를 수집하고 분석한 후, 그 결과를 바탕으로 우리 회사의 개선 사항을 찾아내고 전략 클래스 개발에\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 경쟁사 전략 분석 결과를 사용자 친화적으로 설명하고 발표할 수 있는 형식으로 정리한다.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 경쟁사 전략 분석 결과를 사용자 친",
+      "completedAt": "2026-05-18T19:53:42.531Z"
+    },
+    {
+      "id": "20260518195311-qria",
+      "title": "CEO에게 결과 보고 및 피드백 받기",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-18T19:53:11.859Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T19-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T19-52/_report.md\n- Researcher: 경쟁사 전략 분석 결과를 사용자 친화적으로 설명하고 발표할 수 있는 형식으로 정리한다.\n- 현빈: 코다리가 경쟁사 전략 클래스의 실제 거래 데이터를 수집하고 분석한 후, 그 결과를 바탕으로 우리 회사의 개선 사항을 찾아내고 전략 클래스 개발에\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 경쟁사 전략 분석 결과를 사용자 친화적으로 설명하고 발표할 수 있는 형식으로 정리한다.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 경쟁사 전략 분석 결과를 사용자 친",
+      "completedAt": "2026-05-18T19:53:42.567Z"
+    }
+  ]
+}
