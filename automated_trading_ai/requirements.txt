@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+scikit-learn
+pytorch
+pandas-datareader # 데이터 가져오기 용이
+ccxt # 다양한 거래소 연결
