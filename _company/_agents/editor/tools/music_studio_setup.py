@@ -54,7 +54,7 @@ DEFAULT_INSTALL_DIR = os.path.expanduser("~/connect-ai-music")
 
 
 def _log(msg, kind="info"):
-    prefix = {"info": "?뵩", "ok": "??, "warn": "?좑툘 ", "err": "??}.get(kind, "??)
+    prefix = {"info": "[INFO]", "ok": "[OK]", "warn": "[WARN]", "err": "[ERR]"}.get(kind, "[INFO]")
     print(f"{prefix} {msg}", file=sys.stderr, flush=True)
 
 
@@ -197,7 +197,7 @@ def _install_acestep(model_key, install_dir):
         _log(f"ACE-Step ?섏〈???ㅼ튂 以?(5~10遺? ???⑦궎吏 ?ㅼ슫濡쒕뱶)...")
         _run([venv_pip, "install", "--upgrade", "pip", "--quiet"])
         if not _run([venv_pip, "install", "-r", requirements]):
-            return False, "pip install ?쇰? ?ㅽ뙣 ???ㅼ떆 ?ㅽ뻾?섎㈃ ?댁뼱吏?
+            return False, "pip install failed. Please rerun after checking the error above."
 
     _log(f"紐⑤뜽 weight (~{info['disk_gb']}GB) ??泥??뚯븙 ?앹꽦 ???먮룞 ?ㅼ슫濡쒕뱶", "info")
     return True, venv_python
@@ -265,25 +265,24 @@ def main():
         cfg["ACE_STEP_DIR"] = os.path.join(install_dir, "ace-step")
     _save_config(cfg)
 
-    # v2.89.74 ??源붾걫???쒓컖???꾨즺 移대뱶
+    # v2.89.74 install completion message
     print()
-    print("?? * 50)
-    print(f"?럦 ?뚯븙 ?ㅽ뒠?붿삤 ?ㅼ튂 ?꾨즺!")
-    print("?? * 50)
+    print("=" * 50)
+    print("Music studio setup complete!")
+    print("=" * 50)
     print()
-    print(f"?벀 臾댁뾿??源붾졇??")
-    print(f"   ??紐⑤뜽:   {info['label']}")
-    print(f"   ???꾩튂:   {install_dir}")
-    print(f"   ???붿뒪?? ~{info['disk_gb']}GB ?ъ슜 以?)
+    print("Installed resources:")
+    print(f"   Model:    {info['label']}")
+    print(f"   Location: {install_dir}")
+    print(f"   Disk:     about {info['disk_gb']}GB")
     print()
-    print(f"?렯 ?댁젣 萸??????덈굹:")
-    print(f"   ??'music_generate.py' ???대┃ ??30珥?BGM ?앹꽦")
-    print(f"   ??'music_to_video.py' ???대┃ ???곸긽??BGM ?⑹꽦")
+    print("Next steps:")
+    print("   Run music_generate.py to create a short BGM sample.")
+    print("   Run music_to_video.py to attach BGM to a video.")
     print()
-    print(f"?숋툘  紐⑤뜽 諛붽씀怨??띠쑝硫??숋툘 ??MODEL ?쒕∼?ㅼ슫?먯꽌 ?좏깮 ?????꾧뎄 ?ㅼ떆 ??)
+    print("To change models, select a different MODEL value and rerun setup.")
     print()
-    print(f"?뮕 ??濡쒓렇??'WARNING / UNEXPECTED' 蹂댁??대룄 臾댁떆?대룄 ?⑸땲????)
-    print(f"   transformers ?쇱씠釉뚮윭由??대? 硫붿떆吏. ?ㅼ튂???뺤긽 ?꾨즺.")
+    print("Note: transformer warning messages can usually be ignored after a successful install.")
 
 
 if __name__ == "__main__":
