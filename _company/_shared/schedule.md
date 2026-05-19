@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 19. 오후 7:23:59_
+_업데이트: 2026. 5. 19. 오후 7:38:51_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -23,9 +23,9 @@ _업데이트: 2026. 5. 19. 오후 7:23:59_
 - [2026-05-19] 2023년 하반기에 대한 신규 비즈니스 전략 및 KPI 설정 → 산출물 sessions/2026-05-19T04-52/business.md
 - [2026-05-19] 다양하고 호부가 되는 콘텐츠를 기반으로 수익화 전략을 구체화하고, 이를 통해 회사 목표에 도달하는데 기여할 수 있는 KPI를 설정해 보자. → 산출물 sessions/2026-05-19T05-52/business.md
 ### 📱 영숙
-- [2026-05-19] 오늘의 일정에 대한 요약 및 다음 업무와 관련된 중요한 미팅 시간 설정 → 산출물 sessions/2026-05-19T09-37/secretary.md
 - [2026-05-19] 오늘의 일정 및 미팅 확인하고, 다음 업무에 필요한 준비를 합니다. → 산출물 sessions/2026-05-19T09-52/secretary.md
 - [2026-05-19] 오늘의 일정과 미팅 확인. 이후, 주어진 업무에 맞춰 에이전트들과 협력해주기 바랍니다. → 산출물 sessions/2026-05-19T10-22/secretary.md
+- [2026-05-19] 오늘의 일정 및 미팅을 확인하고, 주요 사항을 요약하여 전달해주세요. → 산출물 sessions/2026-05-19T10-37/secretary.md
 ### ✍️ Writer
 - [2026-05-19] Create a video title and short description for the 'Time's Journey' concept, highlighting past, present, and future developments in technology that shape our world. → 산출물 sessions/2026-05-19T08-07/writer.md
 - [2026-05-19] 새로운 블로그 포스트를 작성하여 지난 24시간 동안 ZEPA 1인 기업의 활동과 성과, 그리고 앞으로의 계획을 정리하고 요약하세요. → 산출물 sessions/2026-05-19T09-22/writer.md
