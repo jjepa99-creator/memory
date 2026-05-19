@@ -14,3 +14,6 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-19] 전자책 분석 결과를 기반으로 UI/UX 디자인의 방향성을 결정하고, 최종 설계를 완성하세요. 전자책 스타일을 반영하여 사용자의 경험을 향상시키세요. → 산출물 sessions/2026-05-19T01-20/designer.md
 - [2026-05-19] 다음달 영상의 전체적인 미래를 상징하는 썸네일과 브랜드 가치를 잘 드러낼 수 있는 디자인 요소를 제안해주세요. → 산출물 sessions/2026-05-19T07-52/designer.md
 - [2026-05-19] Design a thumbnail that visually connects the past, present, and future of technology, emphasizing how these developments shape our world and hint at potential future possibilities. → 산출물 sessions/2026-05-19T08-07/designer.md
+- [2026-05-19] 웹사이트 및 소셜 미디어 디자인에서 '가치'를 시각적으로 강조하는 요소를 선별하고, 이를 새로운 회사 비전과 미션에 적절하게 반영한다. → 산출물 sessions/2026-05-19T13-07/designer.md
+- [2026-05-19] 새롭게 개발된 스크립트에 맞게, 썸네일 디자인과 브랜딩 비주얼을 업데이트하여, 영상들의 조회수를 높이는 데 도움이 되는 시각적 매력을 가진 것으로 설계한다. → 산출물 sessions/2026-05-19T14-07/designer.md
+- [2026-05-19] 디자이너로서, Instagram 페이지의 스토리텔링 비주얼 구상을 바탕으로 디자인을 개선하고 최적화합니다. → 산출물 sessions/2026-05-19T16-37/designer.md
