@@ -12,3 +12,5 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-18] UI/UX 설계도(Blueprint)를 기반으로 실제 대시보드 구현 → 산출물 sessions/2026-05-18T21-22/designer.md
 - [2026-05-18] 디자이너는 UI/UX 설계도를 완료하고, 이를 기술 사양으로 변환한 후 개발자에게 전달한다. → 산출물 sessions/2026-05-18T21-37/designer.md
 - [2026-05-19] 전자책 분석 결과를 기반으로 UI/UX 디자인의 방향성을 결정하고, 최종 설계를 완성하세요. 전자책 스타일을 반영하여 사용자의 경험을 향상시키세요. → 산출물 sessions/2026-05-19T01-20/designer.md
+- [2026-05-19] 다음달 영상의 전체적인 미래를 상징하는 썸네일과 브랜드 가치를 잘 드러낼 수 있는 디자인 요소를 제안해주세요. → 산출물 sessions/2026-05-19T07-52/designer.md
+- [2026-05-19] Design a thumbnail that visually connects the past, present, and future of technology, emphasizing how these developments shape our world and hint at potential future possibilities. → 산출물 sessions/2026-05-19T08-07/designer.md
