@@ -1,12 +1,12 @@
 {
   "ceo": "gemma4:8k",
-  "secretary": "hermes3:8b",
   "youtube": "hermes3:8b",
-  "researcher": "gemma4:8k",
-  "business": "gemma4:8k",
-  "writer": "hermes3:8b",
-  "editor": "hermes3:8b",
-  "designer": "gemma4:e4b",
   "instagram": "hermes3:8b",
-  "developer": "gemma4:8k"
+  "designer": "gemma4:e4b",
+  "developer": "gemma4:8k",
+  "business": "gemma4:8k",
+  "secretary": "hermes3:8b",
+  "editor": "hermes3:8b",
+  "writer": "hermes3:8b",
+  "researcher": "gemma4:8k"
 }
