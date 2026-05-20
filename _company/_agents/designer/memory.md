@@ -17,3 +17,5 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-19] 웹사이트 및 소셜 미디어 디자인에서 '가치'를 시각적으로 강조하는 요소를 선별하고, 이를 새로운 회사 비전과 미션에 적절하게 반영한다. → 산출물 sessions/2026-05-19T13-07/designer.md
 - [2026-05-19] 새롭게 개발된 스크립트에 맞게, 썸네일 디자인과 브랜딩 비주얼을 업데이트하여, 영상들의 조회수를 높이는 데 도움이 되는 시각적 매력을 가진 것으로 설계한다. → 산출물 sessions/2026-05-19T14-07/designer.md
 - [2026-05-19] 디자이너로서, Instagram 페이지의 스토리텔링 비주얼 구상을 바탕으로 디자인을 개선하고 최적화합니다. → 산출물 sessions/2026-05-19T16-37/designer.md
+- [2026-05-20] Develop a structured script for testing the core user journey (e.g., sign-up -> feature discovery -> perceived value). Focus on identifying points of friction in the current funnel design. (Requires the finalized landing page copy and the basic prototype structure). — Develop a structured script for
+- [2026-05-20] 성과 측정 및 개선을 위한 A/B 테스트 설계 — 작성된 콘텐츠의 성과를 측정하기 위한 가설(Hypothesis)을 설정하고, 어떤 요소를 A/B 테스트할지(예: 헤드라인, CTA 버튼 문구, 이미지) 구체적인 테스트 계획을 수립합니다. (담당: 데이터 분석가/전략가 역할) — 작성된 콘텐츠의 성과를 측정하기 위한 가설(Hypothesis)을 설정하고, 어떤 요소를 A/B 테스트할지(예: 헤드라인, CTA 버튼 문구, 이미지) 구체적인 테스트 계획을 수립합니다. (담당: 데이터 분석가/전략가 역할) → 산출물 sessions/202
