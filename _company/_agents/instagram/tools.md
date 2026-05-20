@@ -22,14 +22,14 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
+### `instagram_account`
+Meta Graph API 토큰과 Instagram Business Account ID 연결 상태 확인
+
+- `enabled`: true
+- `requires_credentials`: `META_ACCESS_TOKEN`, `INSTAGRAM_BUSINESS_ID`
+- 읽기 전용 점검 도구입니다. 게시/DM/댓글 작성은 수행하지 않습니다.
 
 ## 로드맵 (예정)
-
-### `instagram_account` _(예정)_
-Meta Graph API OAuth (비즈니스 계정)
-
-- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 ### `feed_poster` _(예정)_
 피드/스토리/릴스 게시 (Draft → 승인 → 게시)

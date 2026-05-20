@@ -23,3 +23,10 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-19] 2023년 하반기에 대한 신규 비즈니스 전략 및 KPI 설정 → 산출물 sessions/2026-05-19T04-52/business.md
 - [2026-05-19] 다양하고 호부가 되는 콘텐츠를 기반으로 수익화 전략을 구체화하고, 이를 통해 회사 목표에 도달하는데 기여할 수 있는 KPI를 설정해 보자. → 산출물 sessions/2026-05-19T05-52/business.md
 - [2026-05-19] researcher가 제공하는 업계 동향 데이터에 기반하여 ZEPA의 비즈니스 전략과 가격 경쟁력을 개선할 방안을 고민하고 실행 가능한 대안을 제시하세요. → 산출물 sessions/2026-05-19T16-22/business.md
+- [2026-05-20] 목차(Table of Contents) 구상 및 확정 → 산출물 sessions/2026-05-20T12-01/business.md
+- [2026-05-20] 핵심 콘텐츠 초안 작성 (챕터 1 & 2) → 산출물 sessions/2026-05-20T12-01/business.md
+- [2026-05-20] Content Finalization & Review — Review the drafted content (e.g., the structure for the 'How-To' guide or the initial blog post draft) and finalize the core messaging. This requires input from the Strategy/Marketing team (if available) or a final self-review. — Review the drafted content (e.g., the 
+- [2026-05-20] SEO Optimization Check — Review the finalized content and marketing assets against target keywords identified earlier. Ensure all headings, meta descriptions, and image alt-tags are optimized. — Review the finalized content and marketing assets against target keywords identified earlier. Ensure all 
+- [2026-05-20] SEO 및 가독성 검토 (Review) — 작성된 초안을 받아, SEO 키워드 배치 적절성, 문단 간의 연결성, 그리고 전반적인 가독성(가독성 점수 측정 등)을 검토하도록 지시합니다. — 작성된 초안을 받아, SEO 키워드 배치 적절성, 문단 간의 연결성, 그리고 전반적인 가독성(가독성 점수 측정 등)을 검토하도록 지시합니다. → 산출물 sessions/2026-05-20T13-15/business.md
+- [2026-05-20] 최근까지 수집된 시장 분석 데이터와 콘텐츠 아이디어를 종합하여, 가장 높은 전환율을 기대할 수 있는 핵심 주제 3가지에 대한 상세한 실행 로드맵(KPI 포함)을 작성하시오. (우선순위 지정 필수) → 산출물 sessions/2026-05-20T13-57/business.md
+- [2026-05-20] 전략 기획팀이 제시한 주제 3가지 중, 가장 실행 가능성이 높은 주제 1개를 선정하여, 초안 콘텐츠(제목, 목차, 핵심 메시지)를 즉시 제작하고, 필요한 시각 자료 리스트를 첨부하시오. → 산출물 sessions/2026-05-20T13-57/business.md

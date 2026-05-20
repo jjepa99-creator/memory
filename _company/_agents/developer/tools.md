@@ -52,6 +52,13 @@ dev server 백그라운드 실행 + URL 자동 추출
 - `enabled`: true
 - `requires_credentials`: `config.md` 참조
 
+### `github_account`
+GitHub 토큰과 기본 저장소 연결 상태 확인
+
+- `enabled`: true
+- `requires_credentials`: `GITHUB_TOKEN`, `GITHUB_DEFAULT_REPO`
+- 읽기 전용 점검 도구입니다. 커밋/푸시/배포는 수행하지 않습니다.
+
 
 ---
 
