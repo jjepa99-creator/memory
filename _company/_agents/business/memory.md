@@ -47,3 +47,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-21] Review and update the core brand messaging document to ensure consistency across all planned marketing materials and content pieces. → 산출물 sessions/2026-05-21T05-34/business.md
 - [2026-05-21] MVP 출시 후 3개월 간의 '고객 확보(Acquisition) -> 활성화(Activation) -> 유지(Retention)' 단계별 마케팅 전략을 구체화해야 합니다. 각 단계별로 측정 가능한 핵심 성과 지표(KPI)를 정의하고, 이를 달성하기 위한 최소한의 마케팅 활동(예: 초기 사용자 온보딩 이메일 시퀀스, 첫 주차 리텐션 캠페인)을 설계해야 합니다. → 산출물 sessions/2026-05-21T06-19/business.md
 - [2026-05-21] 콘텐츠 전략가는 MVP의 핵심 가치를 명확히 전달할 수 있는 3가지 버전의 랜딩 페이지 카피라이팅 초안을 작성해야 합니다. 각 버전은 '문제 제기형', '솔루션 제시형', '결과 강조형'의 톤앤매너를 가져야 합니다. → 산출물 sessions/2026-05-21T06-34/business.md
+- [2026-05-21] 마케팅 담당자는 초기 타겟 고객군(ICP)을 기반으로 한 '가상 고객 여정 지도(Customer Journey Map)'를 업데이트하고, 각 접점(Touchpoint)에서 활용 가능한 초기 마케팅 콘텐츠 아이디어 5개를 구체화해야 합니다. → 산출물 sessions/2026-05-21T06-34/business.md
