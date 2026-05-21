@@ -38,3 +38,5 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-20] MVP의 핵심 기능(Must-have) 3가지를 정의하고, 각 기능에 대한 와이어프레임 초안을 작성합니다. — MVP의 핵심 기능(Must-have) 3가지를 정의하고, 각 기능에 대한 와이어프레임 초안을 작성합니다. → 산출물 sessions/2026-05-20T16-48/business.md
 - [2026-05-20] 핵심 메시지(Key Message) 기반의 랜딩 페이지 카피라이팅 초안 작성 — MVP가 출시되었을 때 사용자가 가장 먼저 보게 될 랜딩 페이지의 헤드라인, 서브 카피, CTA(Call To Action) 등 핵심 메시지 전달용 카피를 작성합니다. (마케팅/콘텐츠 관점) — MVP가 출시되었을 때 사용자가 가장 먼저 보게 될 랜딩 페이지의 헤드라인, 서브 카피, CTA(Call To Action) 등 핵심 메시지 전달용 카피를 작성합니다. (마케팅/콘텐츠 관점) → 산출물 sessions/2026-05-20T17-19/busines
 - [2026-05-20] Execute_Next_Step — Execute_Next_Step → 산출물 sessions/2026-05-20T17-34/business.md
+- [2026-05-21] plan — plan → 산출물 sessions/2026-05-21T03-31/business.md
+- [2026-05-21] plan — plan → 산출물 sessions/2026-05-21T03-46/business.md
