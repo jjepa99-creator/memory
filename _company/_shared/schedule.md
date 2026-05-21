@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 21. 오후 2:55:34_
+_업데이트: 2026. 5. 21. 오후 3:27:50_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -15,21 +15,21 @@ _업데이트: 2026. 5. 21. 오후 2:55:34_
 - [2026-05-21] 랜딩 페이지(LP)의 전체 구조(와이어프레임) 초안 작성. 핵심 메시지(Pain Point -> Solution -> Benefit) 흐름을 반영하고, CTA 섹션의 문구와 버튼 디자인 가이드라인을 포함할 것. → 산출물 sessions/2026-05-21T05-49/designer.md
 - [2026-05-21] 랜딩 페이지의 시각적 톤앤매너(Mood Board) 및 핵심 시각 자료(아이콘, 이미지 스타일) 가이드라인 초안 제작. 브랜드 일관성 유지를 최우선으로 할 것. → 산출물 sessions/2026-05-21T05-49/designer.md
 ### 💻 Developer
-- [2026-05-21] 랜딩 페이지 핵심 카피라이팅 초안 작성 — 확정된 가격 구조와 핵심 가치를 바탕으로, 잠재 고객의 흥미를 유발하고 전환을 유도하는 웹사이트의 메인 페이지(Hero Section, Features, Pricing Section) 카피라이팅 초안을 작성합니다. — 랜딩 페이지 핵심 카피라이팅 초안 작성 — 확정된 가격 구조와 핵심 가치를 바탕으로, 잠재 고객의 흥미를 유발하고 전환을 유도하는 웹사이트의 메인 페이지(Hero Section, Features, Pricing Section) 카피라이팅 초안을 작성합니다. → 산출물 sess
 - [2026-05-21] 필요한 추가 콘텐츠 목록화 및 우선순위 지정 — 랜딩 페이지 외에 필요한 추가 콘텐츠(FAQ, 사용 사례(Use Case) 페이지, 온보딩 가이드 등) 목록을 작성하고, 개발/제작 우선순위를 지정합니다. — 필요한 추가 콘텐츠 목록화 및 우선순위 지정 — 랜딩 페이지 외에 필요한 추가 콘텐츠(FAQ, 사용 사례(Use Case) 페이지, 온보딩 가이드 등) 목록을 작성하고, 개발/제작 우선순위를 지정합니다. → 산출물 sessions/2026-05-21T04-01/developer.md
 - [2026-05-21] 최신 기록 검토: 최근 대화에서 가장 중요한 미완료 과제는 '사용자 인터뷰 및 가설 검증'을 통한 제품/서비스의 핵심 가치 정의입니다. 이는 모든 마케팅 및 제품 개발 활동의 기반이 됩니다. — 최신 기록 검토: 최근 대화에서 가장 중요한 미완료 과제는 '사용자 인터뷰 및 가설 검증'을 통한 제품/서비스의 핵심 가치 정의입니다. 이는 모든 마케팅 및 제품 개발 활동의 기반이 됩니다. → 산출물 sessions/2026-05-21T04-46/developer.md
+- [2026-05-21] 현재까지의 모든 작업(디자인, 카피라이팅, 기술 스택 결정)을 종합하여, 최종 MVP 출시를 위한 상세한 기술 구현 로드맵(스프린트 계획 포함)을 작성해야 합니다. 특히, 사용자 플로우(User Flow)를 기반으로 각 기능별 API 엔드포인트와 필요한 데이터베이스 스키마 초안을 포함해야 합니다. 이는 개발팀이 바로 착수할 수 있는 수준이어야 합니다. → 산출물 sessions/2026-05-21T06-19/developer.md
 ### 💰 Business
-- [2026-05-21] 가설 검증 계획 수립: 정의된 가설(예: '타겟 고객은 A 기능을 필요로 할 것이다')을 검증하기 위한 구체적인 인터뷰 질문지 초안을 작성하고, 인터뷰 대상자 페르소나를 구체화합니다. — 가설 검증 계획 수립: 정의된 가설(예: '타겟 고객은 A 기능을 필요로 할 것이다')을 검증하기 위한 구체적인 인터뷰 질문지 초안을 작성하고, 인터뷰 대상자 페르소나를 구체화합니다. → 산출물 sessions/2026-05-21T04-46/business.md
 - [2026-05-21] Develop a preliminary marketing/launch strategy based on the finalized content map (T1). This includes identifying target keywords, potential distribution channels, and a suggested timeline. → 산출물 sessions/2026-05-21T05-34/business.md
 - [2026-05-21] Review and update the core brand messaging document to ensure consistency across all planned marketing materials and content pieces. → 산출물 sessions/2026-05-21T05-34/business.md
+- [2026-05-21] MVP 출시 후 3개월 간의 '고객 확보(Acquisition) -> 활성화(Activation) -> 유지(Retention)' 단계별 마케팅 전략을 구체화해야 합니다. 각 단계별로 측정 가능한 핵심 성과 지표(KPI)를 정의하고, 이를 달성하기 위한 최소한의 마케팅 활동(예: 초기 사용자 온보딩 이메일 시퀀스, 첫 주차 리텐션 캠페인)을 설계해야 합니다. → 산출물 sessions/2026-05-21T06-19/business.md
 ### 📱 영숙
 - [2026-05-19] 오늘의 일정과 미래 일주간의 주요 모임/미팅을 확인하고, 주요 업무에 집중할 수 있는 최적의 시간대 및 각 에이전트에게 할당할 시간을 계획하세요. → 산출물 sessions/2026-05-19T17-22/secretary.md
 - [2026-05-19] 오늘의 일정과 미팅을 조직하고, 회사 운영에 필요한 업무를 효율적으로 관리하라. → 산출물 sessions/2026-05-19T17-37/secretary.md
 - [2026-05-19] 오늘의 일정과 미래 계획을 확인하고 업무에 집중하기 위해 개인 목표와 회사 목표를 다시 한번 검토해줘. → 산출물 sessions/2026-05-19T18-22/secretary.md
 ### ✍️ Writer
-- [2026-05-21] plan — plan → 산출물 sessions/2026-05-21T05-29/writer.md
 - [2026-05-21] Synthesize all refined content assets (from the '작가' role) into a cohesive, structured content map or outline for the next 3-5 pieces of content. → 산출물 sessions/2026-05-21T05-34/writer.md
 - [2026-05-21] 핵심 타겟 페르소나(예: 중소기업 마케팅 담당자)를 겨냥한 광고 카피 3종(A/B 테스트용) 제작. 각 카피는 '문제 제기형', '혜택 강조형', '긴급성 유발형'의 톤앤매너를 갖출 것. → 산출물 sessions/2026-05-21T05-49/writer.md
+- [2026-05-21] MVP 출시를 위한 핵심 마케팅 메시지(Key Messaging)를 최종 확정하고, 이를 기반으로 랜딩 페이지의 모든 섹션별 카피라이팅을 완성해야 합니다. 특히, '가치 제안(Value Proposition)'을 명확히 전달하는 헤드라인과 CTA(Call To Action) 문구에 집중하여, 잠재 고객의 행동을 유도하는 설득력 있는 톤앤매너를 유지해야 합니다. → 산출물 sessions/2026-05-21T06-19/writer.md
 ### 🔍 Researcher
 - [2026-05-19] 2026년 5월 19일에 대한 트렌드 및 경쟁사 리서치를 수행하고, 결과를 요약한 보고서를 작성하세요. → 산출물 sessions/2026-05-19T17-52/researcher.md
 - [2026-05-20] 참고 자료 및 추가 요소 포함 → 산출물 sessions/2026-05-20T12-01/researcher.md

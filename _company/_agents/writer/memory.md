@@ -42,3 +42,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-21] plan — plan → 산출물 sessions/2026-05-21T05-29/writer.md
 - [2026-05-21] Synthesize all refined content assets (from the '작가' role) into a cohesive, structured content map or outline for the next 3-5 pieces of content. → 산출물 sessions/2026-05-21T05-34/writer.md
 - [2026-05-21] 핵심 타겟 페르소나(예: 중소기업 마케팅 담당자)를 겨냥한 광고 카피 3종(A/B 테스트용) 제작. 각 카피는 '문제 제기형', '혜택 강조형', '긴급성 유발형'의 톤앤매너를 갖출 것. → 산출물 sessions/2026-05-21T05-49/writer.md
+- [2026-05-21] MVP 출시를 위한 핵심 마케팅 메시지(Key Messaging)를 최종 확정하고, 이를 기반으로 랜딩 페이지의 모든 섹션별 카피라이팅을 완성해야 합니다. 특히, '가치 제안(Value Proposition)'을 명확히 전달하는 헤드라인과 CTA(Call To Action) 문구에 집중하여, 잠재 고객의 행동을 유도하는 설득력 있는 톤앤매너를 유지해야 합니다. → 산출물 sessions/2026-05-21T06-19/writer.md
