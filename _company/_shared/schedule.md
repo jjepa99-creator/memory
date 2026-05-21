@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 21. 오후 3:51:21_
+_업데이트: 2026. 5. 21. 오후 4:10:38_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -11,21 +11,21 @@ _업데이트: 2026. 5. 21. 오후 3:51:21_
 - [2026-05-20] 팀 간의 협업 과정에서 병목 현상(Bottleneck)이 발생했는지 점검합니다. 특히, 기획-개발-마케팅 간의 피드백 루프를 간소화할 수 있는 프로세스 개선점을 찾아 회의록 및 워크플로우를 업데이트합니다. — 팀 간의 협업 과정에서 병목 현상(Bottleneck)이 발생했는지 점검합니다. 특히, 기획-개발-마케팅 간의 피드백 루프를 간소화할 수 있는 프로세스 개선점을 찾아 회의록 및 워크플로우를 업데이트합니다. → 산출물 sessions/2026-05-20T15-33/instagram.md
 - [2026-05-20] 랜딩 페이지 최종 검토 및 A/B 테스트 계획 수립 — 현재까지 수집된 모든 사용자 피드백과 경쟁사 분석을 바탕으로, 랜딩 페이지의 CTA(Call To Action) 문구, 헤드라인, 핵심 가치 제안(UVP)에 대한 최종 검토를 진행합니다. A/B 테스트를 위한 가설(예: '헤드라인 A' vs '헤드라인 B')을 최소 3가지 이상 구체적으로 정의하고, 테스트에 필요한 측정 지표(KPI)를 확정합니다. — 현재까지 수집된 모든 사용자 피드백과 경쟁사 분석을 바탕으로, 랜딩 페이지의 CTA(Call To Action) 문구, 헤드라인
 ### 🎨 Designer
-- [2026-05-21] 랜딩 페이지(LP)의 전체 구조(와이어프레임) 초안 작성. 핵심 메시지(Pain Point -> Solution -> Benefit) 흐름을 반영하고, CTA 섹션의 문구와 버튼 디자인 가이드라인을 포함할 것. → 산출물 sessions/2026-05-21T05-49/designer.md
 - [2026-05-21] 랜딩 페이지의 시각적 톤앤매너(Mood Board) 및 핵심 시각 자료(아이콘, 이미지 스타일) 가이드라인 초안 제작. 브랜드 일관성 유지를 최우선으로 할 것. → 산출물 sessions/2026-05-21T05-49/designer.md
 - [2026-05-21] 1. **랜딩 페이지(LP) 초안 제작:** 핵심 가치 제안(UVP)을 기반으로, 가장 전환율이 높을 것으로 예상되는 LP의 와이어프레임 및 스토리보드를 제작합니다. (디자인팀 주도) 2. **핵심 메시지 확정:** LP에 들어갈 메인 카피, CTA(Call To Action) 문구, 그리고 고객 페인 포인트(Pain Point)를 자극하는 스토리라인을 최종 확정합니다. (콘텐츠팀 주도) 3. **기술 스택 검토:** 확정된 LP와 서비스의 MVP(Minimum Viable Product) 구현에 필요한 기술적 제약사항 및 개발 로
+- [2026-05-21] A structured script with 3 opening questions designed to make the prospect articulate their biggest operational headache. — A structured script with 3 opening questions designed to make the prospect articulate their biggest operational headache. → 산출물 sessions/2026-05-21T07-04/designer.md
 ### 💻 Developer
 - [2026-05-21] 최신 기록 검토: 최근 대화에서 가장 중요한 미완료 과제는 '사용자 인터뷰 및 가설 검증'을 통한 제품/서비스의 핵심 가치 정의입니다. 이는 모든 마케팅 및 제품 개발 활동의 기반이 됩니다. — 최신 기록 검토: 최근 대화에서 가장 중요한 미완료 과제는 '사용자 인터뷰 및 가설 검증'을 통한 제품/서비스의 핵심 가치 정의입니다. 이는 모든 마케팅 및 제품 개발 활동의 기반이 됩니다. → 산출물 sessions/2026-05-21T04-46/developer.md
 - [2026-05-21] 현재까지의 모든 작업(디자인, 카피라이팅, 기술 스택 결정)을 종합하여, 최종 MVP 출시를 위한 상세한 기술 구현 로드맵(스프린트 계획 포함)을 작성해야 합니다. 특히, 사용자 플로우(User Flow)를 기반으로 각 기능별 API 엔드포인트와 필요한 데이터베이스 스키마 초안을 포함해야 합니다. 이는 개발팀이 바로 착수할 수 있는 수준이어야 합니다. → 산출물 sessions/2026-05-21T06-19/developer.md
 - [2026-05-21] 개발팀은 현재 정의된 MVP(Minimum Viable Product)의 핵심 기능(예: 사용자 데이터 입력 및 초기 분석 대시보드)에 대한 기술 스택 검토 및 초기 와이어프레임 기반의 기술 설계 문서를 작성해야 합니다. 특히, 데이터 처리의 확장성과 보안성을 최우선으로 고려해야 합니다. → 산출물 sessions/2026-05-21T06-34/developer.md
 ### 💰 Business
-- [2026-05-21] MVP 출시 후 3개월 간의 '고객 확보(Acquisition) -> 활성화(Activation) -> 유지(Retention)' 단계별 마케팅 전략을 구체화해야 합니다. 각 단계별로 측정 가능한 핵심 성과 지표(KPI)를 정의하고, 이를 달성하기 위한 최소한의 마케팅 활동(예: 초기 사용자 온보딩 이메일 시퀀스, 첫 주차 리텐션 캠페인)을 설계해야 합니다. → 산출물 sessions/2026-05-21T06-19/business.md
 - [2026-05-21] 콘텐츠 전략가는 MVP의 핵심 가치를 명확히 전달할 수 있는 3가지 버전의 랜딩 페이지 카피라이팅 초안을 작성해야 합니다. 각 버전은 '문제 제기형', '솔루션 제시형', '결과 강조형'의 톤앤매너를 가져야 합니다. → 산출물 sessions/2026-05-21T06-34/business.md
 - [2026-05-21] 마케팅 담당자는 초기 타겟 고객군(ICP)을 기반으로 한 '가상 고객 여정 지도(Customer Journey Map)'를 업데이트하고, 각 접점(Touchpoint)에서 활용 가능한 초기 마케팅 콘텐츠 아이디어 5개를 구체화해야 합니다. → 산출물 sessions/2026-05-21T06-34/business.md
+- [2026-05-21] A prioritized list of 3 hypotheses, each with a clear success metric and rationale based on psychological triggers (e.g., Scarcity, Authority, Urgency). — A prioritized list of 3 hypotheses, each with a clear success metric and rationale based on psychological triggers (e.g., Scarcity, Authority, Ur
 ### 📱 영숙
-- [2026-05-19] 오늘의 일정과 미래 일주간의 주요 모임/미팅을 확인하고, 주요 업무에 집중할 수 있는 최적의 시간대 및 각 에이전트에게 할당할 시간을 계획하세요. → 산출물 sessions/2026-05-19T17-22/secretary.md
 - [2026-05-19] 오늘의 일정과 미팅을 조직하고, 회사 운영에 필요한 업무를 효율적으로 관리하라. → 산출물 sessions/2026-05-19T17-37/secretary.md
 - [2026-05-19] 오늘의 일정과 미래 계획을 확인하고 업무에 집중하기 위해 개인 목표와 회사 목표를 다시 한번 검토해줘. → 산출물 sessions/2026-05-19T18-22/secretary.md
+- [2026-05-21] A content brief document listing the 5 topics, target keywords, and suggested format (Blog Post, Video Script, Guide). — A content brief document listing the 5 topics, target keywords, and suggested format (Blog Post, Video Script, Guide). → 산출물 sessions/2026-05-21T07-04/secretary.md
 ### ✍️ Writer
 - [2026-05-21] Synthesize all refined content assets (from the '작가' role) into a cohesive, structured content map or outline for the next 3-5 pieces of content. → 산출물 sessions/2026-05-21T05-34/writer.md
 - [2026-05-21] 핵심 타겟 페르소나(예: 중소기업 마케팅 담당자)를 겨냥한 광고 카피 3종(A/B 테스트용) 제작. 각 카피는 '문제 제기형', '혜택 강조형', '긴급성 유발형'의 톤앤매너를 갖출 것. → 산출물 sessions/2026-05-21T05-49/writer.md

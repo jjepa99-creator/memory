@@ -34,3 +34,4 @@ _영숙 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-19] 오늘의 일정과 미래 일주간의 주요 모임/미팅을 확인하고, 주요 업무에 집중할 수 있는 최적의 시간대 및 각 에이전트에게 할당할 시간을 계획하세요. → 산출물 sessions/2026-05-19T17-22/secretary.md
 - [2026-05-19] 오늘의 일정과 미팅을 조직하고, 회사 운영에 필요한 업무를 효율적으로 관리하라. → 산출물 sessions/2026-05-19T17-37/secretary.md
 - [2026-05-19] 오늘의 일정과 미래 계획을 확인하고 업무에 집중하기 위해 개인 목표와 회사 목표를 다시 한번 검토해줘. → 산출물 sessions/2026-05-19T18-22/secretary.md
+- [2026-05-21] A content brief document listing the 5 topics, target keywords, and suggested format (Blog Post, Video Script, Guide). — A content brief document listing the 5 topics, target keywords, and suggested format (Blog Post, Video Script, Guide). → 산출물 sessions/2026-05-21T07-04/secretary.md
