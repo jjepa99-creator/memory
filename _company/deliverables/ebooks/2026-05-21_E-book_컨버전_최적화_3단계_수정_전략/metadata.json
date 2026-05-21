@@ -6,5 +6,14 @@
   "sourceAgents": [
     "business"
   ],
-  "status": "draft"
+  "status": "draft",
+  "completedAt": "2026-05-21T07:48:43.726Z",
+  "modifiedAt": "2026-05-21T08:26:20.292Z",
+  "exports": {
+    "html": "ebook.html",
+    "pdf": "ebook.pdf",
+    "pdfOk": true,
+    "pdfAttemptedAt": "2026-05-21T08:26:20.292Z",
+    "pdfError": ""
+  }
 }

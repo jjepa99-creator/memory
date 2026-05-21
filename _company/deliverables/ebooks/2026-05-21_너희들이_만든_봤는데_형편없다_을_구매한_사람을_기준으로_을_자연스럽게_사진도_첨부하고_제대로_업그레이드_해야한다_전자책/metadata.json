@@ -6,5 +6,14 @@
   "sourceAgents": [
     "writer"
   ],
-  "status": "draft"
+  "status": "draft",
+  "completedAt": "2026-05-21T05:30:17.017Z",
+  "modifiedAt": "2026-05-21T08:26:22.664Z",
+  "exports": {
+    "html": "ebook.html",
+    "pdf": "ebook.pdf",
+    "pdfOk": true,
+    "pdfAttemptedAt": "2026-05-21T08:26:22.664Z",
+    "pdfError": ""
+  }
 }
